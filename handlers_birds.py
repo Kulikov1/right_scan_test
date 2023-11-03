@@ -2,7 +2,6 @@ import datetime
 import json
 
 from java import jclass
-from PIL import Image
 from ru.travelfood.simple_ui import NoSQL as noClass
 
 
